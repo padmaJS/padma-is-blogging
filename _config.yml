@@ -1,14 +1,14 @@
-title:              Clean Blog
-email:              your-email@example.com
-description:        A Blog Theme by Start Bootstrap
-author:             Start Bootstrap
-baseurl:            "/startbootstrap-clean-blog-jekyll"
+title:              Padma blogs
+email:              padshak230@gmail.com
+description:        Hi! I am beginner elixir developer. Going through hurdles and sharing how I overcame them.
+author:             Padma Bajracharya
+baseurl:            "/"
 url:                "https://startbootstrap.github.io"
 
 # Social Profiles
-twitter_username:   SBootstrap
-github_username:    StartBootstrap
-facebook_username:  StartBootstrap
+twitter_username:   PadmaBajzra
+github_username:    padmaJS
+facebook_username:  Bajra.padma
 instagram_username:  
 linkedin_username:
 
